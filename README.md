@@ -8,9 +8,9 @@ Create a table users in the database with the following columns:
 
 id (int, auto-increment, primary key)
 
-first_name (varchar(255))
+fname (varchar(255))
 
-last_name (varchar(255))
+lname (varchar(255))
 
 email (varchar(300))
 
